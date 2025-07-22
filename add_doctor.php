@@ -124,4 +124,3 @@ $stmt->bind_param("ss", $name, $password);
     </div>
 </body>
 </html>
-//Dinesh Tvd
